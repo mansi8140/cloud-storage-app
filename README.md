@@ -1,4 +1,4 @@
-# **Cloud-Based Storage Application** ☁️💾
+# ☁️💾 **Cloud-Based Storage Application** 
 
 A **Java-based Cloud Storage System** that enables users to upload, store, and share files securely over the internet. This system uses **Java Threads, TCP/UDP protocols, and Synchronization** for seamless file handling across multiple clients and a centralized server.
 
